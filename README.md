@@ -8,10 +8,16 @@
 
 2. 회원가입
 
-
+![회원가입 페이지](https://user-images.githubusercontent.com/107826749/174544433-ca2e27e2-0265-4b80-90d7-c49eeaf4ab0e.JPG)
 
 4. 치킨리뷰 작성
-5. 리뷰 보여주기
+
+![리뷰 작성 페이지](https://user-images.githubusercontent.com/107826749/174544398-16f4d168-b0ab-4ec2-bfab-99069fb51f80.JPG)
+
+6. 리뷰 보여주기
+
+![리뷰 페이지](https://user-images.githubusercontent.com/107826749/174544418-12168148-9e78-4090-99f9-c692dac864c7.JPG)
+
 # 4. 개발해야 할 기능들
 
 # 5. public github repo 주소
