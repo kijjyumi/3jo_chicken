@@ -4,11 +4,14 @@
 # 3. 와이어프레임
 1. 로그인 
 
-![로그인페이지](https://user-images.githubusercontent.com/107826749/174538059-0c83841b-522a-402d-b9bc-827ee4423d0f.PNG)
+![로그인 페이지](https://user-images.githubusercontent.com/107826749/174544262-15747c66-6524-4641-ad4f-51d4cef56436.JPG)
 
 2. 회원가입
-3. 치킨리뷰 작성
-4. 리뷰 보여주기
+
+
+
+4. 치킨리뷰 작성
+5. 리뷰 보여주기
 # 4. 개발해야 할 기능들
 
 # 5. public github repo 주소
