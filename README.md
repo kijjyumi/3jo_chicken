@@ -20,6 +20,12 @@
 
 # 4. 개발해야 할 기능들
 
+ |기능|method|url|request|respeonse|
+|------|------|--------|-------------------|-------------|
+|로그인|POST|/login|{'id':id,'pw':pw,}||
+|회원가입|POST|/signup|{'id':id,"pw':pw,'birth':birth}|가입완료 메시지|
+|보여주기|GET|/review|{{'image':image,<br>'star':star,<br>'name':name.<br>'brand':brand,<br>'comment':comment}||
+|작성하기|POST|/review|{'image':image,<br>'star':star,<br>'name':name.<br>'brand':brand,<br>'comment':comment}||
 # 5. public github repo 주소
 
 https://github.com/kijjyumi/3jo_chicken/blob/main/README.md
