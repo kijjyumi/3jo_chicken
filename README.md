@@ -21,3 +21,5 @@
 # 4. 개발해야 할 기능들
 
 # 5. public github repo 주소
+
+https://github.com/kijjyumi/3jo_chicken/blob/main/README.md
